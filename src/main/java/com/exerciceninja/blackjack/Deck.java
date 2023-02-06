@@ -5,10 +5,7 @@
 package com.exerciceninja.blackjack;
 
 import java.util.*;
-/**
- *
- * @author konate-mk
- */
+
 
 public class Deck {
     List<Card> cards = new ArrayList<Card>();

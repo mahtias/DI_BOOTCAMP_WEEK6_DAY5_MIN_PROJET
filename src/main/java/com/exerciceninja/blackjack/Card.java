@@ -4,10 +4,7 @@
  */
 package com.exerciceninja.blackjack;
 
-/**
- *
- * @author konate-mk
- */
+
 
  public class Card {
     private int value;

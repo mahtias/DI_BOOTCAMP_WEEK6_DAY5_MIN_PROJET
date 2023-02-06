@@ -7,10 +7,7 @@ package com.exerciceninja.blackjack;
 import java.util.Random;
 import java.util.Scanner;
 
-/**
- *
- * @author konate-mk
- */
+
 
 public class Game {
     private Deck deck;

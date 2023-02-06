@@ -7,10 +7,6 @@ package com.exerciceninja.blackjack;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- *
- * @author konate-mk
- */
 
  public class Hand {
     List<Card> cards = new ArrayList<>();
